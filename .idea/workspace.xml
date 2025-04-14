@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="189514bd-9cc9-42ae-87a7-a72e3d692110" name="Changes" comment="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ssdts/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ssdts/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ssdts/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ssdts/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +28,22 @@
     &quot;assignee&quot;: &quot;EnochOlisa&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/EnochOlisa/selenium-saucedemo-test-suite.git&quot;,
-    &quot;accountId&quot;: &quot;8269ea96-0e00-4d15-9d76-d6a553d07378&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EnochOlisa/selenium-saucedemo-test-suite.git",
+    "accountId": "8269ea96-0e00-4d15-9d76-d6a553d07378"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "EnochOlisa",
+    "repository": "selenium-saucedemo-test-suite"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -44,52 +56,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.AppTest.executor": "Run",
-    "JUnit.AppTest.testButtonDisplayed.executor": "Run",
-    "JUnit.AppTest.testDirectURLAccess.executor": "Run",
-    "JUnit.AppTest.testMakePurchase.executor": "Run",
-    "JUnit.AppTest.testSecureConnection.executor": "Run",
-    "JUnit.AppTest.testSortByAToZ.executor": "Run",
-    "JUnit.AppTest.testSortByZToA.executor": "Run",
-    "JUnit.AppTest.testSortHighToLow.executor": "Run",
-    "JUnit.AppTest.testSortLowToHigh.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testAddToCart...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testButtonDisplayed...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testByAtoZ...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testInvalidLogin...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testMakePurchase...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveAllFromCart...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveFromCart...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveOneFromCart...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAToZ...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAtoZ...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZToA...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZtoA...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortHighToLow...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortLowToHigh...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testURLLoaded...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testValidLogin...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [clean...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [exec:java...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [mvn,clean...].executor": "Run",
-    "Maven.selenium-saucedemo-test-suite [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "development",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testButtonDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testDirectURLAccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testMakePurchase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testSecureConnection.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testSortByAToZ.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testSortByZToA.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testSortHighToLow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testSortLowToHigh.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testAddToCart...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testButtonDisplayed...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testByAtoZ...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testInvalidLogin...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testMakePurchase...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveAllFromCart...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveFromCart...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveOneFromCart...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAToZ...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAtoZ...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZToA...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZtoA...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortHighToLow...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortLowToHigh...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testURLLoaded...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testValidLogin...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [clean...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [exec:java...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [mvn,clean...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-saucedemo-test-suite [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.AppTest.testSecureConnection">
+}</component>
+  <component name="RunManager" selected="JUnit.AppTest">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-saucedemo-test-suite" />
       <extension name="coverage">
@@ -434,7 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744604490354</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744609554630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744609554630</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744609604036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744609604036</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744609667933</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744609667933</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
