@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.junit.Assert;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -23,7 +24,7 @@ public class AppTest {
 
     @Before
     public void setUp() {
-        driver = new ChromeDriver();
+        driver = new EdgeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));
         driver.get("https://www.saucedemo.com/");
     }
