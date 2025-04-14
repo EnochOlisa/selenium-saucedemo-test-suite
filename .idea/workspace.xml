@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="189514bd-9cc9-42ae-87a7-a72e3d692110" name="Changes" comment="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EnochOlisa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EnochOlisa/selenium-saucedemo-test-suite.git&quot;,
+    &quot;accountId&quot;: &quot;8269ea96-0e00-4d15-9d76-d6a553d07378&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qpHlFcalf5VZ7P6wZPQaH2pyRe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.AppTest.testButtonDisplayed.executor": "Run",
+    "JUnit.AppTest.testDirectURLAccess.executor": "Run",
+    "JUnit.AppTest.testMakePurchase.executor": "Run",
+    "JUnit.AppTest.testSecureConnection.executor": "Run",
+    "JUnit.AppTest.testSortByAToZ.executor": "Run",
+    "JUnit.AppTest.testSortByZToA.executor": "Run",
+    "JUnit.AppTest.testSortHighToLow.executor": "Run",
+    "JUnit.AppTest.testSortLowToHigh.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testAddToCart...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testButtonDisplayed...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testByAtoZ...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testInvalidLogin...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testMakePurchase...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveAllFromCart...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveFromCart...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveOneFromCart...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAToZ...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByAtoZ...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZToA...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortByZtoA...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortHighToLow...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testSortLowToHigh...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testURLLoaded...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testValidLogin...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [clean...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [exec:java...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [mvn,clean...].executor": "Run",
+    "Maven.selenium-saucedemo-test-suite [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "development",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AppTest.testSecureConnection">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo-test-suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssdts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssdts" />
+      <option name="MAIN_CLASS_NAME" value="com.ssdts.AppTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testButtonDisplayed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo-test-suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssdts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssdts" />
+      <option name="MAIN_CLASS_NAME" value="com.ssdts.AppTest" />
+      <option name="METHOD_NAME" value="testButtonDisplayed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testDirectURLAccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo-test-suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssdts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssdts" />
+      <option name="MAIN_CLASS_NAME" value="com.ssdts.AppTest" />
+      <option name="METHOD_NAME" value="testDirectURLAccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testMakePurchase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo-test-suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssdts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssdts" />
+      <option name="MAIN_CLASS_NAME" value="com.ssdts.AppTest" />
+      <option name="METHOD_NAME" value="testMakePurchase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testSecureConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo-test-suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssdts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssdts" />
+      <option name="MAIN_CLASS_NAME" value="com.ssdts.AppTest" />
+      <option name="METHOD_NAME" value="testSecureConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium-saucedemo-test-suite [-Dtest=AppTest#testButtonDisplayed...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppTest#testButtonDisplayed" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium-saucedemo-test-suite [-Dtest=AppTest#testMakePurchase...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppTest#testMakePurchase" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveAllFromCart...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppTest#testRemoveAllFromCart" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium-saucedemo-test-suite [clean...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-U" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium-saucedemo-test-suite [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AppTest.testDirectURLAccess" />
+      <item itemvalue="JUnit.AppTest.testSecureConnection" />
+      <item itemvalue="JUnit.AppTest.testButtonDisplayed" />
+      <item itemvalue="JUnit.AppTest.testMakePurchase" />
+      <item itemvalue="JUnit.AppTest" />
+      <item itemvalue="Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testRemoveAllFromCart...]" />
+      <item itemvalue="Maven.selenium-saucedemo-test-suite [clean...]" />
+      <item itemvalue="Maven.selenium-saucedemo-test-suite [test]" />
+      <item itemvalue="Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testMakePurchase...]" />
+      <item itemvalue="Maven.selenium-saucedemo-test-suite [-Dtest=AppTest#testButtonDisplayed...]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.testMakePurchase" />
+        <item itemvalue="JUnit.AppTest.testButtonDisplayed" />
+        <item itemvalue="JUnit.AppTest.testSecureConnection" />
+        <item itemvalue="JUnit.AppTest.testDirectURLAccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="189514bd-9cc9-42ae-87a7-a72e3d692110" name="Changes" comment="" />
+      <created>1735352751808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735352751808</updated>
+      <workItem from="1735352753496" duration="3477000" />
+      <workItem from="1735356245093" duration="5952000" />
+      <workItem from="1735852799858" duration="13027000" />
+      <workItem from="1735948952557" duration="5493000" />
+      <workItem from="1735954550475" duration="5606000" />
+      <workItem from="1736291879453" duration="10877000" />
+      <workItem from="1739672719097" duration="19000" />
+      <workItem from="1743620719798" duration="384000" />
+      <workItem from="1743621116862" duration="216000" />
+      <workItem from="1743621349021" duration="16330000" />
+      <workItem from="1743650558331" duration="2441000" />
+      <workItem from="1743653011495" duration="506000" />
+      <workItem from="1743653551584" duration="350000" />
+      <workItem from="1744603744452" duration="1422000" />
+    </task>
+    <task id="LOCAL-00001" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1743651041320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743651041320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1743651714106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743651714106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1743653266908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743653266908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1743653289626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743653289626</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744604411828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604411828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744604460823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604460823</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Done with development work.&#10;- Set to do some refactoring and code cleanup.">
+      <option name="closed" value="true" />
+      <created>1744604490354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604490354</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Done with development work.&#10;- Set to do some refactoring and code cleanup." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Done with development work.&#10;- Set to do some refactoring and code cleanup." />
+  </component>
+</project>

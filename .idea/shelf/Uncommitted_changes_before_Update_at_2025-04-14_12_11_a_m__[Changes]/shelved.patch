@@ -1,0 +1,110 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(date 1743653753565)
++++ b/README.md	(date 1743653753565)
+@@ -0,0 +1,100 @@
++# selenium-saucedemo-test-suite
++A test suite to test an app called Swag Labs (https://www.saucedemo.com). Uses the Selenium Framework. Knowledge of Maven is needed to build and run. 
++
++**Testcases**
++------
++Functional Test Cases
++------
++Login Functionality: 
++Description: Verify that valid username and password allow the user to log in successfully.
++Steps:
++Enter a valid username.
++Enter a valid password.
++Click the login button.
++Expected Result: User is redirected to the product page.
++
++Invalid Login:
++Description: Test login with invalid credentials.
++Steps:
++Enter an invalid username or password.
++Click the login button.
++Expected Result: An error message is displayed, and login fails.
++
++
++Add to Cart 
++Description: Verify that items can be added to the cart successfully.
++Steps:
++Navigate to the product page.
++Click "Add to Cart" for a product.
++Check the cart icon for the updated count.
++Expected Result: Cart count increments, and the item appears in the cart.
++
++Remove from Cart 
++Description: Verify that items can be removed from the cart.
++Steps:
++Add an item to the cart.
++Navigate to the cart and click "Remove."
++Expected Result: The item is removed, and the cart count updates.
++
++Product Sorting
++Description: Validate the sorting functionality (e.g., price low to high, high to low).
++Steps:
++Select a sorting option from the dropdown.
++Verify the order of products.
++Expected Result: Products are sorted correctly based on the selected option.
++
++------
++End-to-End Cases
++-----
++Make Purchase:
++Description: Makes a purchase.
++Steps:
++Log in
++Add a product to cart
++View cart
++Check out
++Enter details
++Click continue
++See overview
++Click Finish
++Expected Result: Check-out Complete page is loaded
++
++------
++UI/UX Test Cases
++------
++Error Message Display (Done already with Invalid Login):
++Description: Check that error messages are displayed for empty fields during login.
++Steps:
++Leave the username or password field blank.
++Click the login button.
++Expected Result: An appropriate error message appears.
++
++Button Visibility:
++Description: Verify that all buttons (e.g., login, add to cart) are visible and clickable.
++Steps:
++Check the login page buttons.
++Navigate to the product page and check product buttons.
++Expected Result: Buttons are visible, properly labeled, and clickable.
++
++Cart Icon Updates (Done already with Add to Car/Remove from Cart):
++Description: Check that the cart icon dynamically updates as items are added or removed.
++Steps:
++Add an item to the cart.
++Remove an item from the cart.
++Expected Result: The cart icon count updates correctly.
++
++------
++Security Test Cases
++------
++
++Direct URL Access:
++Description: Test if users can access restricted pages without logging in.
++Steps:
++Open a direct URL (e.g., product or cart page) without logging in.
++Expected Result: User is redirected to the login page.
++
++Secure Connections:
++Description: Check if the website uses HTTPS for secure communication.
++Steps:
++Inspect the website’s URL and security certificate.
++Expected Result: The website uses HTTPS, and the certificate is valid.
